@@ -1,17 +1,27 @@
-Python Coding Challenges
+**Python Coding Challenges**
 
 A structured collection of Python coding challenges focused on strengthening problem-solving skills, logical thinking, and clean code practices.
 
 This repository is continuously updated with new challenges as part of my ongoing journey to master Python fundamentals and algorithmic thinking.
 
-Repository Badges:
+**Repository Badges:**
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-blue)
 ![Challenges](https://img.shields.io/badge/Challenges-3-green)
 ![Focus](https://img.shields.io/badge/Focus-Problem%20Solving-orange)
 
 
-Objectives
+**Python Coding Challenges**
+
+| # | Challenge | Features | Concepts |
+|---|-----------|----------|----------|
+| 01 | [Smart Number Analyzer](challenges/01_smart_number_analyzer) | Even/Odd detection, number type detection, digit sum | Conditionals, While loops |
+| 02 | [Number Frequency Analyzer](challenges/02_number_frequency_analyzer) | Count number occurrences | Dictionaries, Loops |
+| 03 | [Expense Tracker Analyzer](challenges/03_expense_tracker_analyzer) | Expense tracking, category totals, highest/lowest category | Dictionaries, Functions, Exception Handling |
+
+
+
+**Objectives**
 
 • Strengthen Python fundamentals
 • Improve logical reasoning
@@ -20,9 +30,9 @@ Objectives
 • Build a strong GitHub coding portfolio
 
 
-Challenge Summaries
+**Challenge Summaries**
 
-1. Smart Number Analyzer
+**1. Smart Number Analyzer**
 Features:
 • Even / Odd detection
 • Positive / Negative / Zero identification
@@ -34,7 +44,7 @@ Concepts:
 • While loops
 • Arithmetic operations
 
-2. Number Frequency Analyzer
+**2. Number Frequency Analyzer**
 
 Features:
 • Dictionary-based frequency counting
@@ -48,3 +58,24 @@ Concepts:
 • Loops
 • Lambda sorting
 • Clean formatting
+
+**3. Expense Tracker Analyzer**
+
+Features:
+• Accept multiple expense entries from user
+• Store expense categories and amounts using a dictionary
+• Calculate total expense
+• Display category-wise expense totals
+• Identify highest expense category
+• Identify lowest expense category
+• Calculate average expense amount
+• Input validation for incorrect or negative values
+• Option to repeat the program
+
+Concepts:
+• Loops (for / while)
+• Dictionaries
+• Conditional statements
+• Functions (modular programming)
+• Exception handling (try-except)
+• Basic data analysis using Python
