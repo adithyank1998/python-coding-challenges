@@ -11,13 +11,14 @@ This repository is continuously updated with new challenges as part of my ongoin
 ![Focus](https://img.shields.io/badge/Focus-Problem%20Solving-orange)
 
 
-**Python Coding Challenges**
+## Python Coding Challenges
 
 | # | Challenge | Features | Concepts |
 |---|-----------|----------|----------|
-| 01 | [Smart Number Analyzer](challenges/01_smart_number_analyzer) | Even/Odd detection, number type detection, digit sum | Conditionals, While loops |
-| 02 | [Number Frequency Analyzer](challenges/02_number_frequency_analyzer) | Count number occurrences | Dictionaries, Loops |
-| 03 | [Expense Tracker Analyzer](challenges/03_expense_tracker_analyzer) | Expense tracking, category totals, highest/lowest category | Dictionaries, Functions, Exception Handling |
+| 01 | [Smart Number Analyzer](01_smart_number_analyzer) | Even/Odd detection, number type detection, digit sum | Conditionals, While loops |
+| 02 | [Number Frequency Analyzer](02_number_frequency_analyzer) | Count number occurrences | Dictionaries, Loops |
+| 03 | [Expense Tracker Analyzer](03_expense_tracker_analyzer) | Expense tracking, category totals, highest/lowest category | Dictionaries, Functions, Exception Handling |
+
 
 
 
