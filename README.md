@@ -7,7 +7,7 @@ This repository is continuously updated with new challenges as part of my ongoin
 Repository Badges:
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-blue)
-![Challenges](https://img.shields.io/badge/Challenges-2-green)
+![Challenges](https://img.shields.io/badge/Challenges-3-green)
 ![Focus](https://img.shields.io/badge/Focus-Problem%20Solving-orange)
 
 
