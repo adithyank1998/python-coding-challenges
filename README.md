@@ -9,7 +9,6 @@ This repository is continuously updated with new challenges as part of my ongoin
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Challenges](https://img.shields.io/badge/Challenges-3-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/adithyank1998/python-coding-challenges)
 ![Repo Size](https://img.shields.io/github/repo-size/adithyank1998/python-coding-challenges)
 
