@@ -4,11 +4,14 @@ A structured collection of Python coding challenges focused on strengthening pro
 
 This repository is continuously updated with new challenges as part of my ongoing journey to master Python fundamentals and algorithmic thinking.
 
-**Repository Badges:**
-![Python](https://img.shields.io/badge/Python-3.x-yellow)
-![Status](https://img.shields.io/badge/Status-Active-blue)
-![Challenges](https://img.shields.io/badge/Challenges-3-green)
-![Focus](https://img.shields.io/badge/Focus-Problem%20Solving-orange)
+# Python Coding Challenges
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Challenges](https://img.shields.io/badge/Challenges-3-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/adithyank1998/python-coding-challenges)
+![Repo Size](https://img.shields.io/github/repo-size/adithyank1998/python-coding-challenges)
 
 
 ## Python Coding Challenges
