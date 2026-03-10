@@ -29,6 +29,7 @@ Objectives
 
 **Folder Structure**
 
+```
 python-coding-challenges/
 │
 ├── README.md
@@ -46,7 +47,7 @@ python-coding-challenges/
 │   └── password_strength_checker.py
 │
 └── ... (more challenges coming)
-
+```
 
 **Learning Roadmaps**
 
