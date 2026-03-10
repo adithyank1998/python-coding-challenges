@@ -20,6 +20,34 @@ Objectives
 • Build a strong GitHub coding portfolio
 
 
+| Day | Challenge | Difficulty | Status | 
+|-----|-----------|------------|--------|
+| 01 | Smart Number Analyzer | Beginner | ✅ Completed |
+| 02 | Number Frequency Analyzer | Beginner | ✅ Completed |
+| 03 | Expense Tracker Analyzer | Intermediate | ✅ Completed |
+| 04 | Password Strength Checker | Intermediate | ✅ Completed |
+
+**Folder Structure**
+
+python-coding-challenges/
+│
+├── README.md
+│
+├── 01_smart_number_analyzer/
+│   └── smart_number_analyzer.py
+│
+├── 02_number_frequency_analyzer/
+│   └── number_frequency_analyzer.py
+│
+├── 03_expense_tracker_analyzer/
+│   └── expense_tracker_analyzer.py
+│
+├── 04_password_strength_checker/
+│   └── password_strength_checker.py
+│
+└── ... (more challenges coming)
+
+
 **Learning Roadmaps**
 
 **1. Smart Number Analyzer**
